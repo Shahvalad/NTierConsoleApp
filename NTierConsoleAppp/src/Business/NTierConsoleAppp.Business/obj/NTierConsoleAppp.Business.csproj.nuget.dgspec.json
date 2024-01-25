@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Business\\NTierConsoleAppp.Business\\NTierConsoleAppp.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Business\\NTierConsoleAppp.Business\\NTierConsoleAppp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Business\\NTierConsoleAppp.Business\\NTierConsoleAppp.Business.csproj",
+        "projectName": "NTierConsoleAppp.Business",
+        "projectPath": "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Business\\NTierConsoleAppp.Business\\NTierConsoleAppp.Business.csproj",
+        "packagesPath": "C:\\Users\\shahvaladea\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Business\\NTierConsoleAppp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shahvaladea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Data\\NTierConsoleAppp.Data\\NTierConsoleAppp.Data.csproj": {
+                "projectPath": "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Data\\NTierConsoleAppp.Data\\NTierConsoleAppp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Data\\NTierConsoleAppp.Data\\NTierConsoleAppp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Data\\NTierConsoleAppp.Data\\NTierConsoleAppp.Data.csproj",
+        "projectName": "NTierConsoleAppp.Data",
+        "projectPath": "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Data\\NTierConsoleAppp.Data\\NTierConsoleAppp.Data.csproj",
+        "packagesPath": "C:\\Users\\shahvaladea\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shahvaladea\\source\\repos\\NTierConsoleAppp\\src\\Data\\NTierConsoleAppp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shahvaladea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Pluralize.NET": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\bin\Debug\net7.0\NTierConsoleAppp.Business.deps.json
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\bin\Debug\net7.0\NTierConsoleAppp.Business.dll
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\bin\Debug\net7.0\NTierConsoleAppp.Business.pdb
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\bin\Debug\net7.0\NTierConsoleAppp.Data.dll
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\bin\Debug\net7.0\NTierConsoleAppp.Data.pdb
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\NTierConsoleAppp.Business.csproj.AssemblyReference.cache
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\NTierConsoleAppp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\NTierConsoleAppp.Business.AssemblyInfoInputs.cache
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\NTierConsoleAppp.Business.AssemblyInfo.cs
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\NTierConsoleAppp.Business.csproj.CoreCompileInputs.cache
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\NTierConsoleAppp.Business.csproj.CopyComplete
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\NTierConsoleAppp.Business.dll
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\refint\NTierConsoleAppp.Business.dll
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\NTierConsoleAppp.Business.pdb
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Business\NTierConsoleAppp.Business\obj\Debug\net7.0\ref\NTierConsoleAppp.Business.dll

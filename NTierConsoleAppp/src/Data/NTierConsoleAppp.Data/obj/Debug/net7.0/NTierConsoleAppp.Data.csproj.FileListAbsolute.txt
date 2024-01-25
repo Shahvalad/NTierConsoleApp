@@ -1,0 +1,12 @@
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\bin\Debug\net7.0\NTierConsoleAppp.Data.deps.json
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\bin\Debug\net7.0\NTierConsoleAppp.Data.dll
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\bin\Debug\net7.0\NTierConsoleAppp.Data.pdb
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\obj\Debug\net7.0\NTierConsoleAppp.Data.csproj.AssemblyReference.cache
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\obj\Debug\net7.0\NTierConsoleAppp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\obj\Debug\net7.0\NTierConsoleAppp.Data.AssemblyInfoInputs.cache
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\obj\Debug\net7.0\NTierConsoleAppp.Data.AssemblyInfo.cs
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\obj\Debug\net7.0\NTierConsoleAppp.Data.csproj.CoreCompileInputs.cache
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\obj\Debug\net7.0\NTierConsoleAppp.Data.dll
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\obj\Debug\net7.0\refint\NTierConsoleAppp.Data.dll
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\obj\Debug\net7.0\NTierConsoleAppp.Data.pdb
+C:\Users\shahvaladea\source\repos\NTierConsoleAppp\src\Data\NTierConsoleAppp.Data\obj\Debug\net7.0\ref\NTierConsoleAppp.Data.dll
